@@ -22,6 +22,6 @@ gallery:
 
 
 This is the device designed by the MGH/MIT group to assist in the manufacture of electromagnets. 
-# [Link to Files](https://github.com/OS-MPI/MPS)
-# [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
+# [Link to Files](https://github.com/OS-MPI/Winding-Jig)
+# [Link to Wiki](https://github.com/OS-MPI/Winding-Jig/wiki)
 {% include gallery caption="Sample images" %}
