@@ -20,8 +20,8 @@ gallery:
     alt: "Image of a wound coil"
 ---
 
-
-This is the device designed by the MGH/MIT group to assist in the manufacture of electromagnets. 
+# Description
+This is the device designed by the MGH/MIT group to assist in the manufacture of electromagnets. While it was designed to wind large magnets (6mm square wire around a ~1m long "racetrack"), the system is designed such that it is easy to adapt to other shapes and sized. A wire straightener and means for motor-assisted winding are included in the design.
 # [Link to Files](https://github.com/OS-MPI/Winding-Jig)
 # [Link to Wiki](https://github.com/OS-MPI/Winding-Jig/wiki)
 {% include gallery caption="Sample images" %}
