@@ -35,4 +35,4 @@ This is the "MPS" device developed by the MIT/MGH group which is intended to be 
 Within this project is also code (MATLAB) to analyze raw data for magnetometry/spectroscopy/relaxometry.
 # [Link to Files](https://github.com/OS-MPI/MPS)
 # [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery to help describe this project." %}
