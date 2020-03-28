@@ -15,7 +15,7 @@ sidebar:
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
   - title: "License"
-  - text: "GNU General Public License v3.0 and CERN Open Hardware License v1.2"
+    text: "GNU General Public License v3.0 and CERN Open Hardware License v1.2"
 
     
 gallery:
