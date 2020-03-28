@@ -7,7 +7,8 @@ header:
 
 sidebar:
   - title: "With comments, questions or concerns please contact:"
-    text: "Eli Mattingly: ematting@mit.edu"
+    text: "Eli Mattingly: ematting@mit.edu
+    PI: Lawrence Wald, LWald@mgh.harvard.edu"
 
 ---
 # Contributors 
