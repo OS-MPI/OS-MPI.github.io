@@ -11,7 +11,8 @@ sidebar:
     text: "System photo"
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
-    text: "text2"
+  - title: "Cost"
+    text: "$500+, depending on amplifiers and DAQ"
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
 
@@ -29,7 +30,9 @@ gallery:
     alt: "Sample magnetization curves with VivoTrax and OceanNano SPP-25-25"
 ---
 
-This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accesible platform for characterizing SPIONs. 
+This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accesible platform for characterizing SPIONs. It was designed to be both easily assembled and implemented, additionally the system was designed to be affordable. The cost is anywhere from $500 if you have a DAQ board (such as NIDAQ USB 6211) already, but can far exceed that if dedicated DAQs/precision amplifiers are purchased.
+
+Within this project is also code (MATLAB) to analyze raw data for magnetometry/spectroscopy/relaxometry.
 # [Link to Files](https://github.com/OS-MPI/MPS)
 # [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
