@@ -15,11 +15,7 @@ sidebar:
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
 
-tags:
-  - SPION
-  - MPS
-  - Hardware
-  - MGH-MIT
+
     
 gallery:
   - url: /assets/images/Projects/MPS/System_Photo_1.jpg
