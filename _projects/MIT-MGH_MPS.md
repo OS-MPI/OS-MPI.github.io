@@ -5,7 +5,7 @@ layout: single
 header:
   teaser: /assets/images/Projects/MPS/System_Photo_1.jpg
 sidebar:
-  - title: "Spectroscopy/magnetometry system"
+  - title: "Spectroscopy/ magnetometry system"
     image: /assets/images/Projects/MPS/System_Photo_1.jpg
 
   - title: "Specifications"
