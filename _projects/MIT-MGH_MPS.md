@@ -7,15 +7,15 @@ header:
 sidebar:
   - title: "Spectroscopy/magnetometry system"
     image: /assets/images/Projects/MPS/System_Photo_1.jpg
-    image_alt: "System photo"
-    text: "System photo"
+
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
   - title: "Cost"
     text: "$500+, depending on amplifiers and DAQ"
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
-
+  - title: "License"
+  - text: "GNU General Public License v3.0 and CERN Open Hardware License v1.2"
 
     
 gallery:
