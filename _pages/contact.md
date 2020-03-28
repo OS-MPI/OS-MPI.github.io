@@ -7,7 +7,7 @@ header:
 
 sidebar:
   - title: "With comments, questions or concerns please contact:"
-    text: "Eli Mattingly: ematting@mit.edu\s\s   
+    text: "Eli Mattingly: ematting@mit.edu  
     
     PI: Lawrence Wald, LWald@mgh.harvard.edu"
 
