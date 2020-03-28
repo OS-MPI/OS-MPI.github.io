@@ -8,19 +8,14 @@ header:
 sidebar:
   - title: "Small-Bore FFL Imager"
     image: /assets/images/Projects/SBI/SBI_V1.png
-    image_alt: "System Rendering"
-    text: "Digital Rendering of the system"
+
   - title: "Specifications"
     text: "Gradient: 2.8T/m Bore ID: 50mm"
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
+  - title: "License"
+    text: "GNU General Public License v3.0 and CERN Open Hardware License v1.2"
 
-tags:
-  - FFL
-  - Imager
-  - Hardware
-  - MGH-MIT
-    
     
 gallery:
   - url: /assets/images/Projects/SBI/Inside_Bore.png
