@@ -1,5 +1,5 @@
 ---
-title: "Spectroscopy/magetometry system"
+title: "MPS/ magnetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
 layout: single
 header:
