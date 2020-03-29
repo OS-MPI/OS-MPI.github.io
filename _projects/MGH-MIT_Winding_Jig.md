@@ -3,18 +3,21 @@ title: "Winding Jig"
 excerpt: "A machine to help manufacture electromagnets"
 layout: single
 header:
-  teaser: /assets/images/Projects/Winding/Jig_Image.png
+  teaser: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
 sidebar:
   - title: "Winding Jig"
-    image: /assets/images/Projects/Winding/Jig_Image.png
-    image_alt: "Rendering"
+    image: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
-
+  - title: "Cost"
+    text: "Roughly $500-2000, heavily dependent on scale it is built at, and how the winding plates are manufactured"
 gallery:
-  - url: /assets/images/Projects/Winding/Jig_Image.png
-    image_path: /assets/images/Projects/Winding/Jig_Image.png
+  - url: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
+    image_path: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
     alt: "Digital Rendering of the system"
+  - url: /assets/images/Projects/Winding/1000_Wire_Straightener_V2.png
+    image_path: /assets/images/Projects/Winding/1000_Wire_Straightener_V2.png
+    alt: "Digital Rendering of the system focusing on wire straightener"
   - url: /assets/images/Projects/Winding/Wound_Coil.jpg
     image_path: /assets/images/Projects/Winding/Wound_Coil.jpg
     alt: "Image of a wound coil"
