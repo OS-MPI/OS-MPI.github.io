@@ -7,8 +7,8 @@ header:
 sidebar:
   - title: "Winding Jig"
     image: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
-  - title: "Authors"
-    text: "Monika Śliwiak _[1]_, Eli Mattingly _[1,2]_, Lawrence L. Wald_[2,3]_ "
+  - title: "Contributors"
+    text: "Monika Śliwiak _[1]_, Eli Mattingly _[1,2]_, Lawrence L. Wald _[2,3]_ "
   - title: "Cost"
     text: "Roughly $500-2000, heavily dependent on scale it is built at, and how the winding plates are manufactured"    
   - title: "Funding"
