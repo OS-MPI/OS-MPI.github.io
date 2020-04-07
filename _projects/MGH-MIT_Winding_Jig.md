@@ -7,10 +7,15 @@ header:
 sidebar:
   - title: "Winding Jig"
     image: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
+  - title: "Authors"
+    text: "Monika Śliwiak _[1]_, Eli Mattingly _[1,2]_, Lawrence L. Wald_[2,3]_ "
+  - title: "Cost"
+    text: "Roughly $500-2000, heavily dependent on scale it is built at, and how the winding plates are manufactured"    
   - title: "Funding"
     text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
-  - title: "Cost"
-    text: "Roughly $500-2000, heavily dependent on scale it is built at, and how the winding plates are manufactured"
+  - title: "Affiliations"
+    text: "[1] A. A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA [2] MIT-Havard Medical School Health Sciences & Technology, Cambridge, MA, [3] Harvard Medical School, Boston, MA "
+    
 gallery:
   - url: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
     image_path: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
