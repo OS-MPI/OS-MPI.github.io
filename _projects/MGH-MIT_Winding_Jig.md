@@ -27,7 +27,7 @@ gallery:
     image_path: /assets/images/Projects/Winding/Wound_Coil.jpg
     alt: "Image of a wound coil"
   - url: /assets/images/Projects/Winding/Winding_Jig_Animation.mp4
-    image_path: /assets/images/Projects/Winding/Winding_Jig_Animation.mp4
+    image_path: /assets/images/Projects/Winding/Winding_Jig_Animation_Thumbnail.png
     alt: "Animation of coil winding"    
 ---
 
