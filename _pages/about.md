@@ -10,7 +10,9 @@ header:
 ---
 ## About the OS-MPI Initiative
 
-This initiative was founded in order to support the members of the MPI community, or those seeking enter the community by openly sharing information related to the design, construction, and analysis of MPI technologies. 
+This initiative was founded in order to support the members of the MPI community, or those seeking enter the community by openly sharing information related to the design, construction, and analysis of MPI technologies. The initiative is designed such that it can act as a centralized location for open-source MPI projects. These may be projects which are hosted externally (such as another users GitHub profile, or lab website), or hosted on the main OS-MPI organization page. Below is a figure describing the broad structure. 
+
+![](/assets/images/Page_Flowchart_2.png)
 
 The projects which are listed (so far) are accesible either [on the project page](/projects/) or at the primary repository locations [here](https://Github.com/OS-MPI).
 
