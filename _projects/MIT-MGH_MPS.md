@@ -10,6 +10,8 @@ sidebar:
 
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
+  - title: "Status"
+    text: "Functioning, Ongoing development."
   - title: "Cost"
     text: "$500+, depending on amplifiers and DAQ"
   - title: "Funding"
