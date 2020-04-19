@@ -7,6 +7,8 @@ header:
 sidebar:
   - title: "Winding Jig"
     image: /assets/images/Projects/Winding/1000_Planar Winding Jig Overall Assembly_V2.png
+  - title: "Status"
+    text: "Functioning, Ongoing development."
   - title: "Contributors"
     text: "Monika Śliwiak _[1]_, Eli Mattingly _[1,2]_, Lawrence L. Wald _[2,3]_ "
   - title: "Cost"
