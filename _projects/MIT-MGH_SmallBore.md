@@ -24,8 +24,8 @@ gallery:
   - url: /assets/images/Projects/SBI/M-Phantom.png
     image_path: /assets/images/Projects/SBI/M-Phantom.png
     alt: "M Phantom image example"
-  - url: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mov
-    image_path: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mov
+  - url: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mp4
+    image_path: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mp4
     alt: "Animation of the gantry rotating"
 ---
 
@@ -34,7 +34,7 @@ This project is a field-free line (FFL)-based magnetic particle imaging system d
 # [Link to Wiki](https://github.com/OS-MPI/Small-Bore-Imager/wiki)
 <video controls>
   <source src="/assets/images/Projects/SBI/SBI_Vid.mov" type="video/mov">
-  <source src="/assets/images/Projects/SBI/SBI_Vid.mov" type="video/wmv">
+  <source src="/assets/images/Projects/SBI/SBI_Vid.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 {% include gallery caption="This is a set of representative rendering and images of the system" %}
