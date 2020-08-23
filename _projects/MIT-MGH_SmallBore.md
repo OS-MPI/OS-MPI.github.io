@@ -29,7 +29,7 @@ gallery:
     alt: "Rotary union cutaway view"
 ---
 
-This is the FFL-based small bore imager developed by the MIT/MGH group. 
+This project is a field-free line (FFL)-based magnetic particle imaging system developed by the MIT/MGH Magnetic Resonance Physics and Instrumentation Group. It is designed with with the goal of having high sensitivity for functional neuroimaging studies of rats, and would be equally well-suited for other applications that require high sensitivity such as cell-tracking experiments. In the current configuration, the imager can produce images with roughly 2mm resolution (with VivoTrax) and has a temporal resolution of approximately 3 seconds. 
 # [Link to Files](https://github.com/OS-MPI/Small-Bore-Imager)
 # [Link to Wiki](https://github.com/OS-MPI/Small-Bore-Imager/wiki)
 
