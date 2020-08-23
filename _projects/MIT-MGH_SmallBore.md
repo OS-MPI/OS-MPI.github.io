@@ -24,8 +24,8 @@ gallery:
   - url: /assets/images/Projects/SBI/M-Phantom.png
     image_path: /assets/images/Projects/SBI/M-Phantom.png
     alt: "M Phantom image example"
-  - url: /assets/images/Projects/SBI/SBI_Vid.mov
-    image_path: /assets/images/Projects/SBI/SBI_Vid.mov
+  - url: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mov
+    image_path: /assets/images/Projects/SBI/2-0000-Small-Bore-Imager-V1.mov
     alt: "Animation of the gantry rotating"
 ---
 
