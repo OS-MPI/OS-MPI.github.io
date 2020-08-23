@@ -24,9 +24,9 @@ gallery:
   - url: /assets/images/Projects/SBI/M-Phantom.png
     image_path: /assets/images/Projects/SBI/M-Phantom.png
     alt: "M Phantom image example"
-  - url: /assets/images/Projects/SBI/Rotary_Union.png
+  - url: /assets/images/Projects/SBI/SBI_Vid.wmv
     image_path: /assets/images/Projects/SBI/SBI_Vid.wmv
-    alt: "Animaion of the gantry rotating"
+    alt: "Animation of the gantry rotating"
 ---
 
 This project is a field-free line (FFL)-based magnetic particle imaging system developed by the MIT/MGH Magnetic Resonance Physics and Instrumentation Group. It is designed with with the goal of having high sensitivity for functional neuroimaging studies of rats, and would be equally well-suited for other applications that require high sensitivity such as cell-tracking experiments. In the current configuration, the imager can produce images with roughly 2mm resolution (with VivoTrax) and has a temporal resolution of approximately 3 seconds. 
