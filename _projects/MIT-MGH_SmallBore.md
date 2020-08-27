@@ -35,6 +35,10 @@ This project is a field-free line (FFL)-based magnetic particle imaging system d
 
 {% include gallery caption="This is a set of representative rendering and images of the system" %}
 
-<video width="480" controls>
+<video width="600" controls>
   <source src="/assets/images/Projects/SBI/SBI_Vid2.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="/assets/images/Projects/SBI/SBI_ConsoleVid.mp4" type="video/mp4">
 </video>
