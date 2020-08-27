@@ -1,12 +1,15 @@
 ---
+
+title: "Open-Source Magnetic Particle Imaging"
+
 layout: collection
+header:
+overlay_image: /assets/images/Sinogram.jpg
+overlay_filter: 0.5
+permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
-title: "Open-Source Magnetic Particle Imaging"
-header:
-  overlay_image: /assets/images/Sinogram.jpg
-  overlay_filter: 0.5
 
 ---
 # Project Home
