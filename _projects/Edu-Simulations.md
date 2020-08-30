@@ -20,16 +20,25 @@ gallery:
   - url: /assets/images/Projects/EduSim/ExampleFile_StationarySample.gif
     image_path: /assets/images/Projects/EduSim/ExampleFile_StationarySample.gif
     alt: "Alt. Text"
-  - url: /assets/images/Projects/TemplateProj.png
+  - url: /assets/images/Projects/EduSim/Example_2DXSpaceVid.png
     image_path: /assets/images/Projects/EduSim/ExampleFile_MoveSample.mp4
     alt: "Alt. Text"
-  - url: /assets/images/Projects/TemplateProj.png
-    image_path: /assets/images/Projects/TemplateProj.png
+  - url: /assets/images/Projects/EduSim/Example_2DXSpaceVid.png
+    image_path: /assets/images/Projects/EduSim/Example_2DXSpaceVid.mp4
     alt: "Alt. Text"
+  - url: /assets/images/Projects/EduSim/Example_BuildSystemMatrix.mp4
+    image_path: /assets/images/Projects/EduSim/Example_BuildSystemMatrix.mp4
+    alt: "Alt. Text"
+  - url: /assets/images/Projects/EduSim/29_Aug_2020_LissajousVid.mp4
+    image_path: /assets/images/Projects/EduSim/29_Aug_2020_LissajousVid.mp4
+    alt: "Alt. Text"	
 ---
 
 
 
-# [Link to Files](https://github.com/OS-MPI/Educational_Simulations)
+# [Link to repository](https://github.com/OS-MPI/Educational_Simulations)
+## [Link to general MPI simulation](https://github.com/OS-MPI/Educational_Simulations/blob/master/GeneralMPIPhysics_Demo.m)
+## [Link to X-Space demonstration code](https://github.com/OS-MPI/Educational_Simulations/blob/master/X_Space2D_Demo.m)
+## [Link to system-matrix demonstration](https://github.com/OS-MPI/Educational_Simulations/blob/master/SystemMatrix2D_Demo.m)
 
 {% include gallery caption="This is a set of representative rendering and images of the system" %}
