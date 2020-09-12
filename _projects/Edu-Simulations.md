@@ -21,16 +21,16 @@ gallery:
     image_path: /assets/images/Projects/EduSim/ExampleFile_StationarySample.gif
     alt: "Animation of the MPI physics simulation with a stationary sample"
   - url: /assets/images/Projects/EduSim/ExampleFile_MoveSample.mp4
-    image_path: /assets/images/Projects/EduSim/Example_2DXSpaceVid.png
+    image_path: /assets/images/Projects/EduSim/MPI_Physics_MoveSample_Preview2.png
     alt: "Animation of the MPI physics simulation with a moving sample"
   - url: /assets/images/Projects/EduSim/Example_2DXSpaceVid.mp4
     image_path: /assets/images/Projects/EduSim/Example_2DXSpaceVid.png
     alt: "Demonstration of 2D X-Space MPI"
   - url: /assets/images/Projects/EduSim/Example_BuildSystemMatrix.mp4
-    image_path: /assets/images/Projects/EduSim/Example_BuildSystemMatrix.mp4
+    image_path: /assets/images/Projects/EduSim/MakesystemMatrix_Preview2.png
     alt: "Animation of building a system matrix"
   - url: /assets/images/Projects/EduSim/29_Aug_2020_LissajousVid.mp4
-    image_path: /assets/images/Projects/EduSim/29_Aug_2020_LissajousVid.mp4
+    image_path: /assets/images/Projects/EduSim/LissajousMPI_Preview2.png
     alt: "2D Lissajous trajectory excitation"	
 ---
 
