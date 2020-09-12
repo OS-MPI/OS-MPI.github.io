@@ -21,8 +21,8 @@ sidebar:
 
     
 gallery:
-  - url: /assets/images/Projects/MPS/System_Photo_2.jpg
-    image_path: /assets/images/Projects/MPS/System_Photo_2.jpg
+  - url: /assets/images/Projects/MPS/MPS_System_Photo_2.jpg
+    image_path: /assets/images/Projects/MPS/MPS_System_Photo_2.jpg
     alt: "System Image"
   - url: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_SpecFig.png
     image_path: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_SpecFig.png
