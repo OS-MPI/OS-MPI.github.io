@@ -3,10 +3,10 @@ title: "MPS/ magnetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
 layout: single
 header:
-  teaser: /assets/images/Projects/MPS/System_Photo_1.jpg
+  teaser: /assets/images/Projects/MPS/MPS_System_Photo_3.png
 sidebar:
   - title: "Spectroscopy/ magnetometry system"
-    image: /assets/images/Projects/MPS/System_Photo_1.jpg
+    image: /assets/images/Projects/MPS/MPS_System_Photo_3.png
 
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
@@ -21,23 +21,21 @@ sidebar:
 
     
 gallery:
-  - url: /assets/images/Projects/MPS/MPS_System_Photo_2.jpg
-    image_path: /assets/images/Projects/MPS/MPS_System_Photo_2.jpg
+  - url: /assets/images/Projects/MPS/MPS_System_Photo_3.jpg
+    image_path: /assets/images/Projects/MPS/MPS_System_Photo_3.jpg
     alt: "System Image"
-  - url: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_SpecFig.png
-    image_path: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_SpecFig.png
-    alt: "Example of spectroscopy with Synomag D"
-  - url: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_CompositeFig_UpdateUncal.png
-    image_path: /assets/images/Projects/MPS/Synomag70nm_12_Aug_2020_CompositeFig_UpdateUncal.png
-    alt: "Example of the figure produced by the full analysis with Synomag D in ~2.5 minutes."
-  - url: /assets/images/Projects/MPS/MagnetizationCurves.bmp
-    image_path: /assets/images/Projects/MPS/MagnetizationCurves.bmp
-    alt: "Sample magnetization curves with VivoTrax and OceanNano SPP-25-25"
+  - url: /assets/images/Projects/MPS/Synomag_357f0_LegendOutside.png
+    image_path: /assets/images/Projects/MPS/Synomag_357f0_LegendOutside.png
+    alt: "Detection limit for approx 1 sec of acquisition using Synomag D 70nm. Each sample 4uL"
+  - url: /assets/images/Projects/MPS/2ugSynomag_Spectroscopy.png
+    image_path: /assets/images/Projects/MPS/2ugSynomag_Spectroscopy.png
+    alt: "Example of spectroscopy with 2 micrograms of Synomag D"
+
 ---
 
 
 
-This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accesible platform for characterizing SPIONs. The device is well-suited for groups looking to develop nanoparticles as well as those who are interested in understanding SPION properties for imaging or application studies. The cost is anywhere from $500 (if you have a DAQ board such as NI-USB-6211 or NI-USB-6363 already) to $3500 if you need to purchase DAQs and amplifiers. 
+This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accessible platform for characterizing SPIONs. The device is well-suited for groups looking to develop nanoparticles as well as those who are interested in understanding SPION properties for imaging or application studies. The cost is anywhere from $500 (if you have a DAQ board such as NI-USB-6211 or NI-USB-6363 already) to $3500 if you need to purchase DAQs and amplifiers. 
 
 Within this project is also code (MATLAB) to analyze raw data for magnetometry/spectroscopy/relaxometry.
 # [Link to Files](https://github.com/OS-MPI/MPS)
