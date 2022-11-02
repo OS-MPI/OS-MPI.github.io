@@ -3,13 +3,13 @@ title: "MPS/ magnetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
 layout: single
 header:
-  teaser: /assets/images/Projects/MPS/MPS_System_Photo_3.png
+  teaser: /assets/images/Projects/MPS/MPS_System_Photo_3.jpg
 sidebar:
   - title: "Spectroscopy/ magnetometry system"
-    image: /assets/images/Projects/MPS/MPS_System_Photo_3.png
+    image: /assets/images/Projects/MPS/MPS_System_Photo_3.jpg
 
   - title: "Specifications"
-    text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
+    text: "Drive amplitude ~10mT, Bias amplitude >50mT"
   - title: "Status"
     text: "Functioning, Ongoing development."
   - title: "Cost"
@@ -35,7 +35,7 @@ gallery:
 
 
 
-This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accessible platform for characterizing SPIONs. The device is well-suited for groups looking to develop nanoparticles as well as those who are interested in understanding SPION properties for imaging or application studies. The cost is anywhere from $500 (if you have a DAQ board such as NI-USB-6211 or NI-USB-6363 already) to $3500 if you need to purchase DAQs and amplifiers. 
+This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accessible platform for characterizing SPIONs. The device is well-suited for groups looking to develop nanoparticles as well as those who are interested in understanding SPION properties for imaging or application studies. The material cost is anywhere from $500 (if you have a DAQ board such as NI-USB-6211 or NI-USB-6363 already) to ~$3500 if you need to purchase DAQs and amplifiers. 
 
 Within this project is also code (MATLAB) to analyze raw data for magnetometry/spectroscopy/relaxometry.
 # [Link to Files](https://github.com/OS-MPI/MPS)
